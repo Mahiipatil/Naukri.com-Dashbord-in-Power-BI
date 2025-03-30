@@ -1,4 +1,4 @@
-# Nokari.com-Dashbord
+# Naukri.com
 # About
 This repository contains a Power BI dashboard project designed for Naukri.com (a job search platform). The dashboard provides interactive visualizations and data-driven insights to help users analyze job market trends, hiring patterns, and application statistics.
 
